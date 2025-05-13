@@ -19,6 +19,6 @@
 | 14 | 2025-08-xx| TBD | TBD    | -        | -         |
 | 15 | 2025-08-xx | TBD | TBD    | -        | -         |
 
-Pariticants: 
+Paricipants: 
 - Alice
 - Bob
